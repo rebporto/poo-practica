@@ -10,3 +10,5 @@ class PerroTeste: #todos los perros que queremos hacer va a salir de esa plantil
     def ladra (self): #aqui vamos a poner un metodo, un comportamiento del perro, en ese caso
         return "!Guau!"
 #--------------------------------- se termina la classe
+
+#comentario pratica git hu
